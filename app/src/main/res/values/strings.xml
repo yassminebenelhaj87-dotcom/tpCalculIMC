@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Calcul IMC</string>
+        <string name="titre">Calcul IMC</string>
+
+        <string name="poids_hint">Poids en kg</string>
+        <string name="taille_hint">Taille en m</string>
+
+        <string name="calculer">Calculer</string>
+        <string name="effacer">Effacer</string>
+
+        <string name="imc_initial">IMC : --</string>
+        <string name="categorie_initiale">Categorie : --</string>
+
+        <string name="erreur_champs_vides">Veuillez remplir tous les champs.</string>
+        <string name="erreur_valeurs">Les valeurs doivent etre positives.</string>
+
+        <string name="format_imc">IMC : %.2f</string>
+        <string name="format_categorie">Categorie : %s</string>
+
+        <string name="insuffisance">Insuffisance ponderale</string>
+        <string name="normale">Corpulence normale</string>
+        <string name="surpoids">Surpoids</string>
+        <string name="obesite_moderee">Obesite moderee</string>
+        <string name="obesite_severe">Obesite severe</string>
+        <string name="obesite_morbide">Obesite morbide</string>
+
+</resources>
